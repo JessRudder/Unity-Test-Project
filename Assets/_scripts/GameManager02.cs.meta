@@ -1,11 +1,12 @@
 fileFormatVersion: 2
 guid: aea2c7174d86c4d3485476599e0edea1
-timeCreated: 1434327751
+timeCreated: 1434331052
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
   defaultReferences:
   - musicCube: {fileID: 108976, guid: 2549335d4bf494f64ac9d439113ed5ed, type: 2}
+  - lonelySphere: {fileID: 148830, guid: 282184859721c480d9f60b12fd7a92d2, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

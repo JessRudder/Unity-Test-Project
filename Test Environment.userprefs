@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_scripts/GameManager02.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_scripts/MusicCubeScript.cs">
     <Files>
       <File FileName="Assets/_scripts/GameManager.cs" Line="15" Column="25" />
-      <File FileName="Assets/_scripts/GameManager02.cs" Line="11" Column="19" />
+      <File FileName="Assets/_scripts/GameManager02.cs" Line="17" Column="2" />
+      <File FileName="Assets/_scripts/MusicCubeScript.cs" Line="11" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

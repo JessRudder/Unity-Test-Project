@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\_scripts\GameManager.cs" />
      <Compile Include="Assets\_scripts\GameManager02.cs" />
+     <Compile Include="Assets\_scripts\LonelySphereScript.cs" />
      <Compile Include="Assets\_scripts\MusicCubeScript.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
