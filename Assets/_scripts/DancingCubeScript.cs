@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MusicCubeScript : MonoBehaviour {
+public class DancingCubeScript : MonoBehaviour {
 	[Range(0f,10f)]public int speed;
 
 	// Use this for initialization

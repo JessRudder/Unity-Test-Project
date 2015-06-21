@@ -46,8 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\_scripts\DancingCubeScript.cs" />
      <Compile Include="Assets\_scripts\GameManager.cs" />
      <Compile Include="Assets\_scripts\GameManager02.cs" />
+     <Compile Include="Assets\_scripts\GameManager03.cs" />
      <Compile Include="Assets\_scripts\LonelySphereScript.cs" />
      <Compile Include="Assets\_scripts\MusicCubeScript.cs" />
  <Reference Include="UnityEngine.Analytics">

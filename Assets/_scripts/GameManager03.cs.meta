@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c8461a63b88e44702a86883806b57c14
+timeCreated: 1434921610
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dancingCube: {fileID: 146906, guid: b5e88d7bd20ad4777ac89983b7817295, type: 2}
+  - lonelySphere: {fileID: 148830, guid: 282184859721c480d9f60b12fd7a92d2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

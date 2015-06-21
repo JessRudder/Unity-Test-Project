@@ -10,20 +10,7 @@ public class LonelySphereScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		//if(Input.GetKey(KeyCode.LeftArrow)) {
-		//	transform.Translate(Vector3.left * Time.deltaTime * 2);
-		//}
-		//if(Input.GetKey(KeyCode.UpArrow)) {
-		//	transform.Translate(Vector3.forward * Time.deltaTime * 2);
-		//}
-		//if(Input.GetKey(KeyCode.RightArrow)) {
-		//	transform.Translate(Vector3.right * Time.deltaTime * 2);
-		//}
-		//if(Input.GetKey(KeyCode.DownArrow)) {
-		//	transform.Translate(Vector3.back * Time.deltaTime * 2);
-		//}
 		transform.Translate(Vector3.right * Input.GetAxis("Horizontal") * Time.deltaTime * 5);
 		transform.Translate(Vector3.forward * Input.GetAxis("Vertical") * Time.deltaTime * 5);
-	
 	}
 }
