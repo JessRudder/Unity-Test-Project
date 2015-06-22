@@ -5,6 +5,7 @@ public class GameManager03 : MonoBehaviour {
 	public GameObject dancingCube;
 	public GameObject lonelySphere;
 	private AudioSource audio;
+	private Camera camera;
 
 	// Use this for initialization
 	void Start () {
@@ -13,6 +14,5 @@ public class GameManager03 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
 	}
 }
